@@ -1,0 +1,1 @@
+import{o as e,k as a,s}from"./entry.373e284f.js";const m={__name:"ProseImg",props:["imgSrc"],setup(o){return(c,r)=>{const t=s;return e(),a(t,{format:"webp",loading:"lazy",src:o.imgSrc,placeholder:[700,525],width:"700",height:"525",quality:"80",class:"post-image shadow-sm img-fluid rounded-3",alt:""},null,8,["src"])}}};export{m as default};
