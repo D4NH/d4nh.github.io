@@ -1,0 +1,1 @@
+import{o as e,l as a,v as c}from"./DgWEOEw3.js";const l={__name:"ProseImg",props:["imgSrc"],setup(o){return(r,s)=>{const t=c;return e(),a(t,{format:"webp",loading:"lazy",src:o.imgSrc,placeholder:[700,525],width:"700",height:"525",quality:"80",class:"post-image shadow-sm img-fluid rounded-3",alt:""},null,8,["src"])}}};export{l as default};
