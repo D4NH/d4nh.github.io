@@ -1,1 +1,0 @@
-import{g as o,o as r,c as s,C as t}from"./_F5Hdnnm.js";const c={};function n(e,a){return r(),s("li",null,[t(e.$slots,"default")])}const f=o(c,[["render",n]]);export{f as default};
